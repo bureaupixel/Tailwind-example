@@ -1,4 +1,7 @@
 module.exports = {
+  app: {
+    baseURL: '/Tailwind-example/',
+  },
   plugins: {
     tailwindcss: {},
     autoprefixer: {},
